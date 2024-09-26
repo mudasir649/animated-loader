@@ -50,3 +50,27 @@
     bottom: 0;
     background: #2da2ff; 
 }
+
+.loader .upper{
+    left: 0;
+    top: -25px;
+    background: #2da2ff; 
+}
+
+.loader .right{
+    bottom: 0;
+    right: -25px;
+    background: #2da2ff; 
+}
+
+.loader .lower{
+    bottom: -25px;
+    right: 0px;
+    background: #2da2ff; 
+}
+
+.loader .left{
+    left: -25px;
+    bottom: 0;
+    background: #2da2ff; 
+}
